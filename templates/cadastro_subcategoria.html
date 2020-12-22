@@ -1,0 +1,15 @@
+{% extends 'Template.html' %}
+
+{% block body %}
+<h1>Cadastro de SubCategorias</h1>
+<form action="/cadastrar_subcategoria">
+    <select name="cat">
+        {% for i in cat %}
+        <option value="{{i.get_name()}}">{{i.get_name()}}</option>
+        {% endfor %}
+    </select>
+    <label>Subcategory name</label> <input name="sub" value="" type="text" />
+    <input required type="submit" value="Cadastrar">
+</form>
+
+{% endblock %}

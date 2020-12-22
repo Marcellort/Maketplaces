@@ -1,0 +1,10 @@
+{% extends 'Template.html' %}
+
+{% block body %}
+<h1>Cadastro de Marketplaces</h1>
+<form action="/cadastrar_marketplace">
+    <label>Marketplace name</label> <input name="market" value="" type="text" />
+    <input required type="submit" value="Cadastrar">
+</form>
+
+{% endblock %}

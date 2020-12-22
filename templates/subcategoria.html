@@ -1,0 +1,14 @@
+{% extends 'Template.html'%}
+
+{% block body %}
+<h3>Sub Categorias da Categoria <strong>{{category}}</strong> e do marketplace {{mkt}}</h3>
+<ul>
+    {% for subs in sub %}
+    {% if subs.get_cat_name() == category   %}
+        <li><a href = "" >{{subs.get_name()}}</a></li>
+    {% else %}
+
+    {% endif %}
+    {% endfor %}
+</ul>
+{% endblock %}

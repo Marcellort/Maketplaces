@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="{{ url_for('static', filename='estilo.css') }}">
+        <title>Calculadora Olist</title>
+    </head>
+    <body>
+    <div class="header">
+        <h1>Menu</h1>
+        <a href="/">Listar Marketplaces</a>
+        <a href="/cadastrar_marketplace">Cadastrar Marketplaces</a>
+        <a href="/cadastrar_categoria">Cadastrar Categoria</a>
+        <a href="/cadastrar_subcategoria">Cadastrar Sub Categoria</a>
+    </div>
+    {{menssagem}}
+    {% block body %}
+
+    {% endblock %}
+    </body>
+</html>

@@ -1,0 +1,415 @@
+28/12/2020 Hora 20:04 acao: Listando MarketPlaces 
+28/12/2020 Hora 20:04 acao: Listando categorias no Marketplace Mercado Livre 
+28/12/2020 Hora 20:04 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+28/12/2020 Hora 20:04 acao: Listando categorias no Marketplace Ebay 
+28/12/2020 Hora 20:04 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Ebay 
+28/12/2020 Hora 20:04 acao: Listando subcategorias da categoria: Tecnologia no Marketplace: Ebay 
+28/12/2020 Hora 20:15 acao: Listando categorias no Marketplace Mercado Livre 
+28/12/2020 Hora 20:15 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+28/12/2020 Hora 20:15 acao: Listando MarketPlaces 
+28/12/2020 Hora 20:15 acao: Listando categorias no Marketplace Ebay 
+28/12/2020 Hora 20:15 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Ebay 
+28/12/2020 Hora 20:28 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Ebay 
+28/12/2020 Hora 20:28 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Ebay 
+28/12/2020 Hora 20:45 acao: Listando categorias no Marketplace Mercado Livre 
+28/12/2020 Hora 20:45 acao: Listando subcategorias da categoria: Decoracao no Marketplace: Mercado Livre 
+28/12/2020 Hora 20:45 acao: Listando categorias no Marketplace Ebay 
+28/12/2020 Hora 20:45 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Ebay 
+28/12/2020 Hora 20:49 acao: Listando MarketPlaces 
+28/12/2020 Hora 20:49 acao: Listando categorias no Marketplace Mercado Livre 
+28/12/2020 Hora 20:49 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+28/12/2020 Hora 20:49 acao: Listando subcategorias da categoria: Decoracao no Marketplace: Mercado Livre 
+30/12/2020 Hora 13:33 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:33 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:33 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:33 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:33 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:34 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:39 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:39 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:40 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:41 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:43 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:43 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:44 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:44 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:44 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:44 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:44 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:44 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:45 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:45 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:45 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:45 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:45 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:45 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 13:45 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+30/12/2020 Hora 13:45 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:45 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:50 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:51 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:51 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Listando MarketPlaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 13:52 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:00 acao: Listando MarketPlaces 
+30/12/2020 Hora 14:03 acao: Listando MarketPlaces 
+30/12/2020 Hora 14:07 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:07 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:08 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:08 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:11 acao: Listando MarketPlaces 
+30/12/2020 Hora 14:12 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:13 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:14 acao: Listando MarketPlaces 
+30/12/2020 Hora 14:14 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:14 acao: Listando MarketPlaces 
+30/12/2020 Hora 14:15 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:15 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:15 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:16 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:16 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:16 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:22 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:23 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:35 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:36 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:36 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:36 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 14:37 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 15:11 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:13 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:14 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:16 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:16 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:19 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:19 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:20 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:20 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:20 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:22 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:22 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:22 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:22 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:22 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:23 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:23 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:23 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:23 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:24 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:24 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:24 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:24 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:26 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:26 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:26 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:26 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:26 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:26 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:27 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:28 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:28 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:28 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:28 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:29 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:30 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:30 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:30 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:31 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:32 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:32 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:32 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:32 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:32 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:32 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:32 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:32 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:32 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:33 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:33 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:33 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:33 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:33 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:35 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:35 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:35 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:35 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:35 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:35 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:35 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:35 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:35 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:35 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:36 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:36 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:36 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:36 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:36 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:36 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:36 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:37 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:38 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:38 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:38 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:38 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:38 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:38 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:38 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:38 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:38 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:39 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:39 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:39 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:39 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:39 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:39 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:39 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:39 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:40 acao: Listando categorias no Marketplace Shopee 
+30/12/2020 Hora 17:40 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:40 acao: Listando categorias no Marketplace Magalu 
+30/12/2020 Hora 17:40 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:40 acao: Listando categorias no Marketplace Amazon 
+30/12/2020 Hora 17:40 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:40 acao: Listando categorias no Marketplace Ebay 
+30/12/2020 Hora 17:40 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:40 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 17:40 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:40 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 17:40 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:40 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 17:41 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 17:41 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+30/12/2020 Hora 17:41 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 17:41 acao: Listando subcategorias da categoria: Decoracao no Marketplace: Mercado Livre 
+30/12/2020 Hora 17:41 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 17:41 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:41 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:41 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:41 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:41 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:42 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:42 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:42 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:42 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:47 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:47 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:47 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:47 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:48 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:48 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:48 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:48 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:49 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:50 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:50 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:50 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:50 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:51 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:51 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:51 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:51 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:51 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:51 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 17:51 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:57 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:57 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:57 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:57 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:57 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 17:57 acao: Listando subcategorias da categoria: Asa no Marketplace: Mercado Livre 
+30/12/2020 Hora 17:57 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:57 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:57 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 17:57 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:57 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 17:57 acao: Listando MarketPlaces 
+30/12/2020 Hora 17:57 acao: Listando categorias no Marketplace Ebay 
+30/12/2020 Hora 17:57 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:00 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 18:00 acao: Listando subcategorias da categoria: Asa no Marketplace: Mercado Livre 
+30/12/2020 Hora 18:00 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:00 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:00 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:00 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:00 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:00 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:00 acao: Listando categorias no Marketplace Amazon 
+30/12/2020 Hora 18:00 acao: Listando subcategorias da categoria: Asa no Marketplace: Amazon 
+30/12/2020 Hora 18:01 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:01 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:01 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:01 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:01 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:01 acao: Listando categorias no Marketplace Shopee 
+30/12/2020 Hora 18:06 acao: Carregando tela de resgistro de sub categorias 
+30/12/2020 Hora 18:06 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:06 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:06 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 18:06 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+30/12/2020 Hora 18:06 acao: Carregando tela de resgistro de sub categorias 
+30/12/2020 Hora 18:06 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:06 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:06 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 18:06 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:06 acao: Carregando tela de resgistro de sub categorias 
+30/12/2020 Hora 18:06 acao: Carregando tela de resgistro de sub categorias 
+30/12/2020 Hora 18:06 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:06 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 18:06 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+30/12/2020 Hora 18:06 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+30/12/2020 Hora 18:07 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:07 acao: Listando categorias no Marketplace Shopee 
+30/12/2020 Hora 18:07 acao: Listando subcategorias da categoria: aaa no Marketplace: Shopee 
+30/12/2020 Hora 18:07 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:07 acao: Listando categorias no Marketplace Ebay 
+30/12/2020 Hora 18:07 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Ebay 
+30/12/2020 Hora 18:07 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Ebay 
+30/12/2020 Hora 18:07 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Ebay 
+30/12/2020 Hora 18:07 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:07 acao: Listando categorias no Marketplace Amazon 
+30/12/2020 Hora 18:07 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Amazon 
+30/12/2020 Hora 18:08 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Amazon 
+30/12/2020 Hora 18:08 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:08 acao: Listando categorias no Marketplace Amazon 
+30/12/2020 Hora 18:08 acao: Listando subcategorias da categoria: Asa no Marketplace: Amazon 
+30/12/2020 Hora 18:08 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:08 acao: Listando categorias no Marketplace Magalu 
+30/12/2020 Hora 18:08 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:08 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:08 acao: Carregando tela de resgistro de categorias 
+30/12/2020 Hora 18:08 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:08 acao: Listando categorias no Marketplace Magalu 
+30/12/2020 Hora 18:08 acao: Listando subcategorias da categoria: Iphones no Marketplace: Magalu 
+30/12/2020 Hora 18:09 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:09 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:09 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:09 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:09 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 18:09 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 18:09 acao: Listando categorias no Marketplace Mercado Livre 
+30/12/2020 Hora 18:09 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:09 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:09 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:10 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:10 acao: Carregando tela de resgistro de marketplaces 
+30/12/2020 Hora 18:11 acao: Listando MarketPlaces 
+30/12/2020 Hora 18:11 acao: Listando categorias no Marketplace Ebay 
+30/12/2020 Hora 18:11 acao: Listando MarketPlaces 
+04/01/2021 Hora 12:42 acao: Listando MarketPlaces 
+04/01/2021 Hora 12:42 acao: Listando categorias no Marketplace Mercado Livre 
+04/01/2021 Hora 12:42 acao: Listando MarketPlaces 
+04/01/2021 Hora 12:42 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 12:42 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 12:42 acao: Listando MarketPlaces 
+04/01/2021 Hora 12:42 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 12:42 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 12:43 acao: Listando MarketPlaces 
+04/01/2021 Hora 12:43 acao: Carregando tela de resgistro de categorias 
+04/01/2021 Hora 12:43 acao: Carregando tela de resgistro de categorias 
+04/01/2021 Hora 12:43 acao: Listando MarketPlaces 
+04/01/2021 Hora 12:43 acao: Listando categorias no Marketplace Criacao de market 
+04/01/2021 Hora 12:43 acao: Listando MarketPlaces 
+04/01/2021 Hora 12:44 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 12:44 acao: Carregando tela de resgistro de categorias 
+04/01/2021 Hora 13:09 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 13:09 acao: Listando MarketPlaces 
+04/01/2021 Hora 13:09 acao: Listando categorias no Marketplace a 
+04/01/2021 Hora 13:09 acao: Listando MarketPlaces 
+04/01/2021 Hora 13:09 acao: Listando categorias no Marketplace Criacao de market 
+04/01/2021 Hora 13:09 acao: Listando subcategorias da categoria: aaaa no Marketplace: Criacao de market 
+04/01/2021 Hora 13:10 acao: Listando MarketPlaces 
+04/01/2021 Hora 13:10 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 13:10 acao: Listando MarketPlaces 
+04/01/2021 Hora 13:21 acao: Listando categorias no Marketplace Mercado Livre 
+04/01/2021 Hora 13:27 acao: Listando subcategorias da categoria: Decoracao no Marketplace: Mercado Livre 
+04/01/2021 Hora 13:27 acao: Carregando tela de resgistro de sub categorias 
+04/01/2021 Hora 13:27 acao: Carregando tela de resgistro de sub categorias 
+04/01/2021 Hora 13:27 acao: Listando MarketPlaces 
+04/01/2021 Hora 13:27 acao: Listando categorias no Marketplace Mercado Livre 
+04/01/2021 Hora 13:27 acao: Listando subcategorias da categoria: Decoracao no Marketplace: Mercado Livre 
+04/01/2021 Hora 14:06 acao: Listando MarketPlaces 
+04/01/2021 Hora 14:06 acao: Listando categorias no Marketplace Magalu 
+04/01/2021 Hora 14:07 acao: Listando MarketPlaces 
+04/01/2021 Hora 14:07 acao: Listando categorias no Marketplace Mercado Livre 
+04/01/2021 Hora 14:07 acao: Listando MarketPlaces 
+04/01/2021 Hora 14:14 acao: Listando categorias no Marketplace Mercado Livre 
+04/01/2021 Hora 14:14 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+04/01/2021 Hora 14:14 acao: Listando subcategorias da categoria: Geladeira no Marketplace: Mercado Livre 
+04/01/2021 Hora 14:14 acao: Listando MarketPlaces 
+04/01/2021 Hora 14:14 acao: Listando categorias no Marketplace Ebay 
+04/01/2021 Hora 14:14 acao: Listando subcategorias da categoria: Tecnologia no Marketplace: Ebay 
+04/01/2021 Hora 14:14 acao: Listando subcategorias da categoria: Tecnologia no Marketplace: Ebay 
+04/01/2021 Hora 14:14 acao: Listando MarketPlaces 
+04/01/2021 Hora 14:14 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 14:14 acao: Carregando tela de resgistro de categorias 
+04/01/2021 Hora 14:14 acao: Carregando tela de resgistro de sub categorias 
+04/01/2021 Hora 14:14 acao: Carregando tela de resgistro de sub categorias 
+04/01/2021 Hora 14:14 acao: Carregando tela de resgistro de categorias 
+04/01/2021 Hora 14:14 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 14:14 acao: Carregando tela de resgistro de categorias 
+04/01/2021 Hora 14:14 acao: Carregando tela de resgistro de sub categorias 
+04/01/2021 Hora 14:15 acao: Carregando tela de resgistro de sub categorias 
+04/01/2021 Hora 14:15 acao: Carregando tela de resgistro de categorias 
+04/01/2021 Hora 14:15 acao: Carregando tela de resgistro de marketplaces 
+04/01/2021 Hora 14:15 acao: Listando MarketPlaces 
+04/01/2021 Hora 14:15 acao: Listando categorias no Marketplace Amazon 
+04/01/2021 Hora 14:15 acao: Listando subcategorias da categoria: Eletrodomestico no Marketplace: Amazon 

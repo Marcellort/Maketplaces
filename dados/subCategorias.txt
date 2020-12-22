@@ -1,0 +1,8 @@
+Eletrodomestico;Geladeira
+Eletrodomestico;Televisao
+Moveis;Cadeira
+Moveis;Mesas
+Decoracao;Quadros
+Tecnologia;Computadores
+Geladeira;a
+Decoracao;Vasos  de plantas

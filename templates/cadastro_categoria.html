@@ -1,0 +1,15 @@
+{% extends 'Template.html' %}
+
+{% block body %}
+<h1>Cadastro de Categorias</h1>
+<form action="/cadastrar_categoria">
+    <select name="mkt">
+        {% for i in market %}
+        <option value="{{i.get_name()}}">{{i.get_name()}}</option>
+        {% endfor %}
+    </select>
+    <label>Category name</label> <input name="cat" value="" type="text" />
+    <input required type="submit" value="Cadastrar">
+</form>
+
+{% endblock %}

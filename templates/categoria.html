@@ -1,0 +1,15 @@
+{% extends 'Template.html'%}
+
+{% block body %}
+<h3>Categorias do Marketplace <strong>{{market}}</strong></h3>
+<ol>
+    {% for category in cat %}
+        {% if category.get_parent_name() == market   %}
+            <li><a href = "/subcategorias/{{category.get_name()}}/{{market}}" >{{category.get_name()}}</a></li>
+        {% else %}
+
+        {% endif %}
+    {% endfor %}
+
+</ol>
+{% endblock %}

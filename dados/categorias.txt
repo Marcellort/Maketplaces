@@ -1,0 +1,11 @@
+Amazon;Eletrodomestico
+Mercado Livre;Geladeira
+Ebay;Eletrodomestico
+Amazon;Moveis
+Mercado Livre;Decoracao
+Ebay;Tecnologia
+Mercado Livre;Asa
+Amazon;Asa
+Shopee;aaa
+Magalu;Iphones
+Criacao de market;aaaa

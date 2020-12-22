@@ -1,0 +1,11 @@
+{% extends 'Template.html'%}
+
+{% block body %}
+<h3>Lista de Marketplaces</h3>
+<ol>
+{% for names in marketplaces %}
+<li><a href = "/categorias/{{names.get_name()}}" >{{names}}</a></li>
+{% endfor %}
+
+</ol>
+{% endblock %}
